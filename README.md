@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👁️ AI Video Auditor
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/3c781c61-a530-4c3b-bef0-00b7d69e2724" />
 
 **Real-time crowd analysis powered by YOLOv8 + Google Gemini**
 
